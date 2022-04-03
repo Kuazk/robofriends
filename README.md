@@ -5,5 +5,4 @@ allow you to interact with objects and a dynamic search bar that searches the ob
 
 # instrustions
 clone this and 
-run --> npm install
-        npm start
+run --> npm install | npm start
